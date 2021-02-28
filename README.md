@@ -1,1 +1,1 @@
-# JavaScript-and-DOM-Manipulation-Challenge
+# JavaScript-and-DOM-Manipulation-Challenge.github.io
