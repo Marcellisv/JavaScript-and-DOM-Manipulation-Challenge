@@ -14,7 +14,7 @@ var filter_button= d3.select('#filter-btn');
   
   table_body.html("");
 
-// create rows for data sighting
+// create rows for data ufo sighting
   data.forEach((sighting) => {
     
     var row = table_body.append("tr");
