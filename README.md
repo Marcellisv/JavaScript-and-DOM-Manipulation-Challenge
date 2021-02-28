@@ -21,7 +21,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 ## The Task
 
-* This assignment allowed an intro into using Javascript to populate an HTML webpage 
+* This assignment gave an intro into using Javascript to populate an HTML webpage 
 
 * Using the HTML file provided I was able to append the UFO Sightings data to the table 
 
