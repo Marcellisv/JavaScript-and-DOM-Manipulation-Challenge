@@ -19,7 +19,6 @@ var filter_button= d3.select('#filter-btn');
     
     var row = table_body.append("tr");
 
-
     Object.values(sighting).forEach((ufo) => {
       var ufo_append_info = row.append("td");
         ufo_append_info.text(ufo);
